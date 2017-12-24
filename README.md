@@ -5,4 +5,5 @@ As a coder and fan of prog rock, I created these sites to a) add some amusement 
 ### Videos
 
 - ["Dancing with the Moonlit Knight" – Genesis](http://carolineho.me/DancingWithTheMoonlitKnight)
+- ["Money" – Pink Floyd](http://carolineho.me/Money)
 - ["Thick as a Brick" – Jethro Tull](http://carolineho.me/ThickAsABrick)
