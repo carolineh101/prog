@@ -1,6 +1,6 @@
 ## About
 
-As a coder and fan of prog rock, I created these sites to add some amusement to the music I love. Hope you enjoy, and keep an eye out for more songs and features in the future!
+As a coder and fan of prog rock, I created these sites to a) add some amusement to the music I love and b) procrastinate on all my actual work. Hope you enjoy, and keep an eye out for more songs and features in the future!
 
 ### Videos
 
